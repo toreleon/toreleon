@@ -1,4 +1,4 @@
-[//]: <> (Create a porfolio profile)
+<!-- BLOG-POST-LIST:START -->
 ## About Me
 
 I am a Data Scientist with nearly one year of working experience in production and over two years of working experience in Vietnamese NLP academic research at DS@UIT Laboratory - University of Information Technology. I am currently working in the Data Science team at Be Group JSC - a ride-hailing company building AI services for mobile application. For more information about my work, projects, and academic research, please visit my [Resume](/resume/Resume.pdf)
@@ -15,3 +15,4 @@ I am a Data Scientist with nearly one year of working experience in production a
     <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
 
 </div>
+<!-- BLOG-POST-LIST:END -->
