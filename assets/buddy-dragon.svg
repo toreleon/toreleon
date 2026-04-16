@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 170" width="280" height="170" role="img" aria-label="Claude Code buddy: legendary dragon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1F1F1F" />
+      <stop offset="100%" stop-color="#141414" />
+    </linearGradient>
+    <linearGradient id="star" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D97757" />
+      <stop offset="100%" stop-color="#FFC107" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .art { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; fill: #D97757; letter-spacing: 0; }
+    .rarity { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; font-weight: 600; fill: url(#star); letter-spacing: 2px; }
+    .name { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #FAF9F5; opacity: 0.75; letter-spacing: 1px; }
+    .sparkle { fill: #FFC107; }
+  </style>
+
+  <rect width="280" height="170" rx="12" fill="url(#bg)" stroke="#D97757" stroke-opacity="0.25" stroke-width="1" />
+
+  <!-- Sparkles for legendary flair -->
+  <g>
+    <text class="sparkle" x="36" y="34" font-size="12">✦</text>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite" />
+  </g>
+  <g>
+    <text class="sparkle" x="240" y="48" font-size="10">✦</text>
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite" />
+  </g>
+  <g>
+    <text class="sparkle" x="248" y="118" font-size="8">✦</text>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Dragon frames (3-frame idle loop, 1.5s) -->
+  <g transform="translate(82, 0)">
+    <g>
+      <text class="art" x="0" y="44" xml:space="preserve">            </text>
+      <text class="art" x="0" y="62" xml:space="preserve">  /^\  /^\  </text>
+      <text class="art" x="0" y="80" xml:space="preserve"> &lt;  o  o  &gt; </text>
+      <text class="art" x="0" y="98" xml:space="preserve"> (   ~~   ) </text>
+      <text class="art" x="0" y="116" xml:space="preserve">  `-vvvv-'  </text>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.334;0.667" dur="1.5s" calcMode="discrete" repeatCount="indefinite" />
+    </g>
+
+    <g opacity="0">
+      <text class="art" x="0" y="44" xml:space="preserve">            </text>
+      <text class="art" x="0" y="62" xml:space="preserve">  /^\  /^\  </text>
+      <text class="art" x="0" y="80" xml:space="preserve"> &lt;  o  o  &gt; </text>
+      <text class="art" x="0" y="98" xml:space="preserve"> (        ) </text>
+      <text class="art" x="0" y="116" xml:space="preserve">  `-vvvv-'  </text>
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.334;0.667" dur="1.5s" calcMode="discrete" repeatCount="indefinite" />
+    </g>
+
+    <g opacity="0">
+      <text class="art" x="0" y="44" xml:space="preserve">   ~    ~   </text>
+      <text class="art" x="0" y="62" xml:space="preserve">  /^\  /^\  </text>
+      <text class="art" x="0" y="80" xml:space="preserve"> &lt;  o  o  &gt; </text>
+      <text class="art" x="0" y="98" xml:space="preserve"> (   ~~   ) </text>
+      <text class="art" x="0" y="116" xml:space="preserve">  `-vvvv-'  </text>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.334;0.667" dur="1.5s" calcMode="discrete" repeatCount="indefinite" />
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="60" y1="132" x2="220" y2="132" stroke="#D97757" stroke-opacity="0.2" stroke-width="1" />
+
+  <!-- Rarity + name -->
+  <text class="rarity" x="140" y="148" text-anchor="middle">★ ★ ★ ★ ★</text>
+  <text class="name" x="140" y="162" text-anchor="middle">LEGENDARY · DRAGON</text>
+</svg>

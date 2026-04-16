@@ -1,29 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=180&section=header&text=Thang%20Le%20Viet&fontSize=56&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:C15F3C&height=180&section=header&text=Thang%20Le%20Viet&fontSize=56&fontColor=FAF9F5&fontAlignY=42&animation=fadeIn" alt="header" />
 
 <p>
-  <a href="https://toreleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/thanglv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:levietthang0512@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="/resume/Resume.pdf"><img src="https://img.shields.io/badge/Resume-2B2D42?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  <a href="https://toreleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=githubpages&logoColor=FAF9F5" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/thanglv/"><img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn" /></a>
+  <a href="mailto:levietthang0512@outlook.com"><img src="https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=FAF9F5" alt="Email" /></a>
+  <a href="/resume/Resume.pdf"><img src="https://img.shields.io/badge/Resume-2B2B2B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FAF9F5" alt="Resume" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=toreleon&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/toreleon?style=flat-square&color=8A2BE2&labelColor=111827" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Co--founding-2EA043?style=flat-square" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=toreleon&style=flat-square&color=D97757&labelColor=191919&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/toreleon?style=flat-square&color=D97757&labelColor=191919" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Co--founding-D97757?style=flat-square&labelColor=191919" alt="Open to collaboration" />
 </p>
+
+</div>
+
+<div align="center">
+
+<img src="assets/buddy-dragon.svg" alt="Claude Code dragon buddy" width="280" />
 
 </div>
 
 ## About
 
-I work on coding agents and multi-agent systems, with a background in NLP and LLM applications. Most of my time goes into building tools that help teams ship software faster: code analysis, review, and workflow automation.
+I'm an engineer working on coding agents and multi-agent systems, with a background in NLP and LLM applications. Most of my time goes into building tools that help teams ship software faster (code analysis, review, and workflow automation), though I believe agents matter far beyond developer tooling. Any domain where the bottleneck is repetitive reasoning, coordination, or access to expertise is worth rethinking.
 
-I think agents can be useful far beyond developer tooling. Any domain where the bottleneck is repetitive reasoning, coordination, or access to expertise is worth rethinking with agents, whether that's healthcare, finance, education, operations, or something I haven't seen yet.
-
-If you are starting a company around Agentic AI, have a hard problem in your domain, or want to explore an idea together, get in touch. I'm open to collaboration, co-founding, and serious conversations with domain experts.
+If you are starting a company around Agentic AI, have a hard problem in your domain, or want to explore an idea together, **[get in touch](mailto:levietthang0512@outlook.com)**. I'm open to collaboration, co-founding, and serious conversations with domain experts.
 
 ## Toolkit
 
@@ -81,10 +85,10 @@ If you are starting a company around Agentic AI, have a hard problem in your dom
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=toreleon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api?username=toreleon&show_icons=true&hide_border=true&bg_color=191919&title_color=D97757&icon_color=D97757&text_color=FAF9F5&cache_seconds=1800" alt="GitHub Stats" height="165" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&bg_color=191919&title_color=D97757&text_color=FAF9F5&cache_seconds=1800" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
