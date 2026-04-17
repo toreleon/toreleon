@@ -35,41 +35,33 @@ If you are starting a company around Agentic AI, have a hard problem in your dom
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" valign="top" width="120">
       <a href="https://claude.ai/code">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" alt="Claude Code" width="40" height="40" />
         <br /><sub><b>Claude Code</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" valign="top" width="120">
       <a href="https://openai.com/codex">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/codex-color.svg" alt="Codex" width="40" height="40" />
         <br /><sub><b>Codex</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" valign="top" width="120">
       <a href="https://github.com/features/copilot">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" />
-          <source media="(prefers-color-scheme: light)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/githubcopilot.png" />
-          <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" alt="GitHub Copilot" width="40" height="40" />
-        </picture>
-        <br /><sub><b>Copilot</b></sub>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" alt="GitHub Copilot" width="40" height="40" />
+        <br /><sub><b>GitHub Copilot</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" valign="top" width="120">
       <a href="https://antigravity.google">
         <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Antigravity" width="40" height="40" />
         <br /><sub><b>Antigravity</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" valign="top" width="120">
       <a href="https://www.cursor.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" />
-          <source media="(prefers-color-scheme: light)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cursor.png" />
-          <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="40" height="40" />
-        </picture>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="40" height="40" />
         <br /><sub><b>Cursor</b></sub>
       </a>
     </td>
