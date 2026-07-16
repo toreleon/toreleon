@@ -1,42 +1,36 @@
-# Thang Le Viet · AI Engineer - Agentic AI for Software Engineering
+# Thang Le Viet
 
-I build coding agents and codebase intelligence systems - 5 years shipping production ML/LLM. Currently: enterprise coding agents (code review, bug localization) at FPT AI Center, AI4SE Lab.
+AI engineer working on coding agents and codebase intelligence.
 
-> Open to AI engineering roles - US (relocation-ready) or remote. Also happy to talk agentic-AI research & OSS collaboration.
+[Portfolio](https://toreleon.github.io) · [LinkedIn](https://www.linkedin.com/in/thanglv) · [Résumé](https://github.com/toreleon/resume/blob/main/resume.pdf) · [Email](mailto:levietthang0512@outlook.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-toreleon.github.io-D97757?style=flat)](https://toreleon.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thanglv-D97757?style=flat)](https://www.linkedin.com/in/thanglv)
-[![Email](https://img.shields.io/badge/Email-levietthang0512%40outlook.com-D97757?style=flat)](mailto:levietthang0512@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-D97757?style=flat)](https://github.com/toreleon/resume/blob/main/resume.pdf)
+I have spent five years shipping production ML and LLM systems. Today, I build enterprise coding agents for code review and bug localization at FPT AI Center, AI4SE Lab.
 
-<!-- Google Scholar (reserved 5th badge slot) - add when the profile URL exists:
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-D97757?style=flat)](SCHOLAR_URL) -->
+> Open to AI engineering roles in the US or remote, and to focused research and open-source collaborations.
 
-## What I build
+## Work
 
-**[opendev](https://github.com/opendev-to/opendev)** - core contributor, #2 by commits. Open-source terminal-native coding agent for parallel, multi-model workflows. Rust. **751★ · 86 forks**
+- [opendev](https://github.com/opendev-to/opendev) — core contributor to a terminal-native coding agent for parallel, multi-model workflows.
+- **Metis** — lead engineer on codebase intelligence used across 50+ repositories.
+- [CADAgent](https://github.com/toreleon/CADAgent) — creator of an in-app AI copilot for parametric 3D modeling.
+- [mcphub](https://github.com/Cognitive-Stack/mcphub) — maintainer of an embeddable MCP solution for AI services.
 
-**Metis** - lead engineer (FPT AI Center, enterprise). Codebase-intelligence engine (RAG + vector search) inside a LangGraph multi-agent platform that automates code review and bug localization across **50+ repositories**
+## Recent
 
-**[CADAgent](https://github.com/toreleon/CADAgent)** - creator. AI CAD copilot for FreeCAD: an in-app agent for 3D parametric modeling
+<!-- BUILD-ACTIVITY:START -->
+- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-07-15
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) — Rust · ★ 10.3k · pull requests · 2026-07-15
+- [toreleon/OpenAgent](https://github.com/toreleon/OpenAgent) — TypeScript · pushes · pull requests · new repo / branch / tag · 2026-07-14
+- [toreleon/loam](https://github.com/toreleon/loam) — Python · new repo / branch / tag · 2026-07-07
+<!-- BUILD-ACTIVITY:END -->
 
-**[mcphub](https://github.com/Cognitive-Stack/mcphub)** - maintainer. Embeddable MCP (Model Context Protocol) solution for AI services. Python. **83★**
+<sub>Updated automatically every six hours from public GitHub activity.</sub>
 
 ## Research
 
-Van Nguyen, K.; Le, T.V.; Do, T.P.P. (2024). [Numerical reasoning reading comprehension on Vietnamese COVID-19 news: task, corpus, and challenges](https://doi.org/10.1007/s00521-024-09744-5). *Neural Computing & Applications* 36, 14053-14073.
-
-Built **COVIDROP** - the first Vietnamese numerical-reasoning RC dataset (NLP@UIT Lab).
+- [Numerical reasoning reading comprehension on Vietnamese COVID-19 news](https://doi.org/10.1007/s00521-024-09744-5), *Neural Computing & Applications* (2024).
+- **COVIDROP** — the first Vietnamese numerical-reasoning reading-comprehension dataset.
 
 ## Stack
 
-Python · TypeScript · Rust · LangGraph · RAG · MCP · LLM evals · PyTorch · HF Transformers · Docker/K8s · FastAPI
-
----
-
-The fastest way to reach me: **[levietthang0512@outlook.com](mailto:levietthang0512@outlook.com)**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&theme=dark&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&bg_color=00000000" alt="Top languages" height="140">
-</picture>
+Python · TypeScript · Rust · LangGraph · RAG · MCP · PyTorch · FastAPI · Docker · Kubernetes
