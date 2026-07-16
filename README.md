@@ -1,88 +1,42 @@
-<div align="center">
+# Thang Le Viet · AI Engineer - Agentic AI for Software Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:C15F3C&height=180&section=header&text=Thang%20Le%20Viet&fontSize=56&fontColor=FAF9F5&fontAlignY=42&animation=fadeIn" alt="header" />
+I build coding agents and codebase intelligence systems - 5 years shipping production ML/LLM. Currently: enterprise coding agents (code review, bug localization) at FPT AI Center, AI4SE Lab.
 
-<p>
-  <a href="https://toreleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=githubpages&logoColor=FAF9F5" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/thanglv/"><img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn" /></a>
-  <a href="mailto:levietthang0512@outlook.com"><img src="https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=FAF9F5" alt="Email" /></a>
-  <a href="/resume/Resume.pdf"><img src="https://img.shields.io/badge/Resume-2B2B2B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FAF9F5" alt="Resume" /></a>
-</p>
+> Open to AI engineering roles - US (relocation-ready) or remote. Also happy to talk agentic-AI research & OSS collaboration.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=toreleon&style=flat-square&color=D97757&labelColor=191919&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/toreleon?style=flat-square&color=D97757&labelColor=191919" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Co--founding-D97757?style=flat-square&labelColor=191919" alt="Open to collaboration" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-toreleon.github.io-D97757?style=flat)](https://toreleon.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thanglv-D97757?style=flat)](https://www.linkedin.com/in/thanglv)
+[![Email](https://img.shields.io/badge/Email-levietthang0512%40outlook.com-D97757?style=flat)](mailto:levietthang0512@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D97757?style=flat)](https://github.com/toreleon/resume/blob/main/resume.pdf)
 
-</div>
+<!-- Google Scholar (reserved 5th badge slot) - add when the profile URL exists:
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-D97757?style=flat)](SCHOLAR_URL) -->
 
-<div align="center">
+## What I build
 
-<img src="assets/buddy-dragon.svg" alt="Claude Code dragon buddy" width="280" />
+**[opendev](https://github.com/opendev-to/opendev)** - core contributor, #2 by commits. Open-source terminal-native coding agent for parallel, multi-model workflows. Rust. **751★ · 86 forks**
 
-</div>
+**Metis** - lead engineer (FPT AI Center, enterprise). Codebase-intelligence engine (RAG + vector search) inside a LangGraph multi-agent platform that automates code review and bug localization across **50+ repositories**
 
-## About
+**[CADAgent](https://github.com/toreleon/CADAgent)** - creator. AI CAD copilot for FreeCAD: an in-app agent for 3D parametric modeling
 
-I'm an engineer working on coding agents and multi-agent systems, with a background in NLP and LLM applications. Most of my time goes into building tools that help teams ship software faster (code analysis, review, and workflow automation), though I believe agents matter far beyond developer tooling. Any domain where the bottleneck is repetitive reasoning, coordination, or access to expertise is worth rethinking.
+**[mcphub](https://github.com/Cognitive-Stack/mcphub)** - maintainer. Embeddable MCP (Model Context Protocol) solution for AI services. Python. **83★**
 
-If you are starting a company around Agentic AI, have a hard problem in your domain, or want to explore an idea together, **[get in touch](mailto:levietthang0512@outlook.com)**. I'm open to collaboration, co-founding, and serious conversations with domain experts.
+## Research
 
-## Toolkit
+Van Nguyen, K.; Le, T.V.; Do, T.P.P. (2024). [Numerical reasoning reading comprehension on Vietnamese COVID-19 news: task, corpus, and challenges](https://doi.org/10.1007/s00521-024-09744-5). *Neural Computing & Applications* 36, 14053-14073.
 
-<div align="center">
+Built **COVIDROP** - the first Vietnamese numerical-reasoning RC dataset (NLP@UIT Lab).
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="120">
-      <a href="https://claude.ai/code">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" alt="Claude Code" width="40" height="40" />
-        <br /><sub><b>Claude Code</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="120">
-      <a href="https://openai.com/codex">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/codex-color.svg" alt="Codex" width="40" height="40" />
-        <br /><sub><b>Codex</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="120">
-      <a href="https://github.com/features/copilot">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" alt="GitHub Copilot" width="40" height="40" />
-        <br /><sub><b>GitHub Copilot</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="120">
-      <a href="https://antigravity.google">
-        <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Antigravity" width="40" height="40" />
-        <br /><sub><b>Antigravity</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="120">
-      <a href="https://www.cursor.com">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="40" height="40" />
-        <br /><sub><b>Cursor</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+## Stack
 
-</div>
+Python · TypeScript · Rust · LangGraph · RAG · MCP · LLM evals · PyTorch · HF Transformers · Docker/K8s · FastAPI
 
 ---
 
-<div align="center">
+The fastest way to reach me: **[levietthang0512@outlook.com](mailto:levietthang0512@outlook.com)**
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=toreleon&show_icons=true&hide_border=true&bg_color=191919&title_color=D97757&icon_color=D97757&text_color=FAF9F5&cache_seconds=1800" alt="GitHub Stats" height="165" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&bg_color=191919&title_color=D97757&text_color=FAF9F5&cache_seconds=1800" alt="Top Languages" height="165" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&theme=dark&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreleon&layout=compact&hide_border=true&langs_count=6&bg_color=00000000" alt="Top languages" height="140">
+</picture>
