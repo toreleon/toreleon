@@ -4,14 +4,14 @@ AI engineer working on coding agents and codebase intelligence.
 
 [Portfolio](https://toreleon.github.io) · [LinkedIn](https://www.linkedin.com/in/thanglv) · [Résumé](https://github.com/toreleon/resume/blob/main/resume.pdf) · [Email](mailto:levietthang0512@outlook.com)
 
-I have spent five years shipping production ML and LLM systems. Today, I build enterprise coding agents for code review and bug localization at FPT AI Center, AI4SE Lab.
+I have spent five years shipping production ML and LLM systems. Most recently, I built enterprise coding agents for code review and bug localization at FPT AI Center, AI4SE Lab.
 
 > Open to AI engineering roles in the US or remote, and to focused research and open-source collaborations.
 
 ## Work
 
 - [opendev](https://github.com/opendev-to/opendev) — core contributor to a terminal-native coding agent for parallel, multi-model workflows.
-- **Metis** — lead engineer on codebase intelligence used across 50+ repositories.
+- **Metis** — led engineering for a codebase-intelligence system used across 50+ repositories.
 - [CADAgent](https://github.com/toreleon/CADAgent) — creator of an in-app AI copilot for parametric 3D modeling.
 - [mcphub](https://github.com/Cognitive-Stack/mcphub) — maintainer of an embeddable MCP solution for AI services.
 
