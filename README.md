@@ -18,10 +18,10 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 ## Recent
 
 <!-- BUILD-ACTIVITY:START -->
+- [toreleon/leann.cpp](https://github.com/toreleon/leann.cpp) — C++ · ★ 1 · pushes · pull requests · new repo / branch / tag · 2026-07-23
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-07-23
 - [toreleon/mcp-contract](https://github.com/toreleon/mcp-contract) — Python · pushes · pull requests · new repo / branch / tag · 2026-07-18
 - [toreleon/OpenAgent](https://github.com/toreleon/OpenAgent) — TypeScript · pushes · pull requests · new repo / branch / tag · 2026-07-17
-- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) — Rust · ★ 10.6k · pull requests · 2026-07-15
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
