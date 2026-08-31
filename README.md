@@ -21,7 +21,6 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-08-30
 - [toreleon/OpenMainframe](https://github.com/toreleon/OpenMainframe) — Rust · ★ 1 · pushes · 2026-08-26
 - [toreleon/skillproof](https://github.com/toreleon/skillproof) — TypeScript · pushes · new repo / branch / tag · 2026-08-03
-- [toreleon/imperfective-nli-prompt-studio](https://github.com/toreleon/imperfective-nli-prompt-studio) — TypeScript · new repo / branch / tag · 2026-07-31
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
