@@ -18,7 +18,7 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 ## Recent
 
 <!-- BUILD-ACTIVITY:START -->
-- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-09-03
+- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-09-05
 - [toreleon/OpenMainframe](https://github.com/toreleon/OpenMainframe) — Rust · ★ 1 · pushes · 2026-08-26
 <!-- BUILD-ACTIVITY:END -->
 
