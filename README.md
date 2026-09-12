@@ -21,7 +21,6 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-09-11
 - [toreleon/COVIDROP](https://github.com/toreleon/COVIDROP) — new repo / branch / tag · 2026-09-11
 - [toreleon/chatgpt-sandbox-setup](https://github.com/toreleon/chatgpt-sandbox-setup) — pushes · new repo / branch / tag · 2026-09-07
-- [toreleon/OpenMainframe](https://github.com/toreleon/OpenMainframe) — Rust · ★ 1 · pushes · 2026-08-26
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
