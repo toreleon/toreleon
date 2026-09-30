@@ -18,9 +18,10 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 ## Recent
 
 <!-- BUILD-ACTIVITY:START -->
+- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pushes · 2026-09-30
+- [toreleon/mainframe-env.github.io](https://github.com/toreleon/mainframe-env.github.io) — HTML · pushes · new repo / branch / tag · 2026-09-30
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-09-29
 - [toreleon/JevGames](https://github.com/toreleon/JevGames) — Python · pushes · new repo / branch / tag · 2026-09-21
-- [toreleon/COVIDROP](https://github.com/toreleon/COVIDROP) — new repo / branch / tag · 2026-09-11
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
