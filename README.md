@@ -19,7 +19,7 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 
 <!-- BUILD-ACTIVITY:START -->
 - [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pushes · pull requests · new repo / branch / tag · 2026-10-07
-- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pull requests · new repo / branch / tag · 2026-10-03
+- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pushes · pull requests · new repo / branch / tag · 2026-10-07
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
