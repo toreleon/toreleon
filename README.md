@@ -18,9 +18,8 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 ## Recent
 
 <!-- BUILD-ACTIVITY:START -->
-- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pushes · pull requests · new repo / branch / tag · 2026-10-10
+- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pushes · pull requests · new repo / branch / tag · 2026-10-12
 - [SI4Music/.github](https://github.com/SI4Music/.github) — pushes · 2026-10-10
-- [SI4Music/dj-mixtape](https://github.com/SI4Music/dj-mixtape) — Python · pushes · 2026-10-10
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
