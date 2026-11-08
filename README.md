@@ -20,7 +20,7 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 <!-- BUILD-ACTIVITY:START -->
 - [toreleon/firmable-schema-ingestion](https://github.com/toreleon/firmable-schema-ingestion) — Python · pushes · 2026-10-21
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pull requests · new repo / branch / tag · 2026-10-20
-- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pushes · pull requests · 2026-10-17
+- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pull requests · 2026-10-17
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
