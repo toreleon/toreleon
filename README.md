@@ -18,8 +18,8 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 ## Recent
 
 <!-- BUILD-ACTIVITY:START -->
+- [toreleon/bias-studio](https://github.com/toreleon/bias-studio) — TypeScript · pull requests · 2026-11-17
 - [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pull requests · 2026-10-21
-- [toreleon/mainframe-env](https://github.com/toreleon/mainframe-env) — Rust · pull requests · 2026-10-17
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
