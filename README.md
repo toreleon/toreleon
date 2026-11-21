@@ -19,7 +19,6 @@ I have spent five years shipping production ML and LLM systems. Most recently, I
 
 <!-- BUILD-ACTIVITY:START -->
 - [toreleon/bias-studio](https://github.com/toreleon/bias-studio) — TypeScript · pushes · pull requests · new repo / branch / tag · 2026-11-17
-- [toreleon/Azoth](https://github.com/toreleon/Azoth) — TypeScript · ★ 6 · pull requests · 2026-10-21
 <!-- BUILD-ACTIVITY:END -->
 
 <sub>Updated automatically every six hours from public GitHub activity.</sub>
